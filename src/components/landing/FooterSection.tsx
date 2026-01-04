@@ -175,7 +175,7 @@ export function FooterSection() {
         </div>
 
         <div className="mt-12 border-t border-border pt-8 text-center text-sm text-muted-foreground">
-          © 2024 Nexus AI. All rights reserved.
+          © 2026 Nexus AI. All rights reserved to Code2With-Pratik.
         </div>
       </div>
     </footer>
